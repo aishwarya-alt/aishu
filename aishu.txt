@@ -4,7 +4,12 @@ kjfjbksjdfb
 lfndslkfnf
 ds;fldspf
 
+<<<<<<< HEAD
 
 
 -------------------------------------
 file update example
+=======
+---------------------
+edited in github
+>>>>>>> 6074a3f3b7808042e1f5817fa6423b2b3319ed50
